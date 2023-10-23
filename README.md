@@ -1,7 +1,7 @@
 # Alura Plus 
 Olá, seja bem-vind@ ao meu segundo projeto desenvolvido no curso de HTML e CSS da Alura. Esse curso é focado na prática de HTML e CSS.
 
-![tela-1] ![aluraplus](https://github.com/emilyfariasa/aluraplus/assets/123472927/d25ef924-39dc-44cd-ac24-27e669425583)
+![aluraplus](https://github.com/emilyfariasa/aluraplus/assets/123472927/d25ef924-39dc-44cd-ac24-27e669425583)
 
 ## Ferramentas utilizadas:
 
