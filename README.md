@@ -10,6 +10,10 @@ Olá, seja bem-vind@ ao meu segundo projeto desenvolvido no curso de HTML e CSS 
 * CSS
 
 * Flex-box
+  
+* Variáveis
+  
+* Grid
 
 ## Feito por:
 ### Emily Farias
